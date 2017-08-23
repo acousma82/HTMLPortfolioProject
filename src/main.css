@@ -5,7 +5,7 @@
 }
 
 body {
-  background: #F5F5F5;
+  background: #8EBA43;
   color: #444;
   font-family: "Helvetica Neue", Arial, serif;
   font-size: 22px;
@@ -36,7 +36,8 @@ p, ul {
 }
 
 .skills ul li {
-  margin-left: 30px;;
+  margin-left: 30px;
+    
 }
 
 a {
@@ -74,12 +75,12 @@ a.active {
 
 .header, header {
   align-items: center;
-  background-color: #EFEFEF;
+  background-color: #4B4345;
   background-image: url('bg.jpg');
   background-position: cover;
   background-repeat: no-repeat;
   background-size: 100% auto;
-  border-top: 4px solid #e91e63;
+  border-top: 4px solid #EB8A44;
   color: #FFFFFF;
   display: flex;
   flex-direction: column;
@@ -131,7 +132,7 @@ a.active {
  */
 
 .skills {
-  background: #e91e63;
+background-color: #8EBA43;
   color: white;
 }
 
@@ -144,4 +145,8 @@ a.active {
   font-size: 16px;
 }
 .footer p, footer p {
-  font-size: 14px;
+    font-size: 14px;}
+
+.tagline{ background-color: #F9DC24;}
+
+.contact {background-color: #EB8A44  ;
